@@ -81,6 +81,7 @@ module Telegram
         getUserProfilePhotos
         kickChatMember
         leaveChat
+        editMessageText
         sendAudio
         sendChatAction
         sendContact
